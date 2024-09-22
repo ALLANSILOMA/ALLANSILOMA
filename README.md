@@ -13,10 +13,10 @@ I'm a passionate **Full Stack Developer, Graphics Designer** and **PHP Developer
 - 👯 Looking to collaborate on **open-source projects, full-stack applications, PHP automation tools**
 - 📫 How to reach me: [My Email](mailto:silomaallan@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/siloma-allan)
 ## ⚡ Fun fact:
--☕ Powered by coffee and curiosity.
--🌍 I dream of one day building an app that goes viral (I mean,who doesn’t?).
--🍿 In my downtime, I’m either solving coding puzzles or leveling up in my favorite movies or television series.
--😍I enjoy being in the company of family or friends sipping a cold diet coke having laughs and enjoying a great meal. I also have a mild obsession with collecting quirky cartoon T-shirts!
+☕ Powered by coffee and curiosity.
+🌍 I dream of one day building an app that goes viral (I mean,who doesn’t?).
+🍿 In my downtime, I’m either solving coding puzzles or leveling up in my favorite movies or television series.
+😍I enjoy being in the company of family or friends sipping a cold diet coke having laughs and enjoying a great meal. I also have a mild obsession with collecting quirky cartoon T-shirts!
 
 ## 🛠️ Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,nodejs,figma,androidstudio,bootstrap,c,cpp,css,dotnet,html,ai,idea,npm,ps,php,phpstorm&perline=10)](https://skillicons.dev)
