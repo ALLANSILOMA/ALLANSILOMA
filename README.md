@@ -7,9 +7,9 @@ I'm a passionate **Full Stack Developer, Graphics Designer** and **PHP Developer
 - 🔭 Currently working on **FarmTrek Farm Management System**
 - 🌱 Learning more about **Wordpress,** **Scala**
 - 💬 Ask me about **Kotlin Applications,** **Laravel,** **MySQL,** **Adobe Illustrator,** **Adobe Indesign,** **Adobe Photoshop,** **Canva,** **CodePen,** 
-- 📚 Always on a journey to learn new things – **currently obsessed with modern web development**<br/>
--🛠️ My toolbox includes **PHP,** **JavaScript,** **Figma,** **TailwindCSS** **and Node.js,** **but I’m always looking to pick up new skills.**.<br/>
--🧑‍💻 When I’m not coding, you’ll probably find me tinkering with side projects or brainstorming the next big app.<br/>
+- 📚 Always on a journey to learn new things – **currently obsessed with modern web development**
+- 🛠️ My toolbox includes **PHP,** **JavaScript,** **Figma,** **TailwindCSS** **and Node.js,** **but I’m always looking to pick up new skills.**
+- 🧑‍💻 When I’m not coding, you’ll probably find me tinkering with side projects or brainstorming the next big app.
 - 👯 Looking to collaborate on **open-source projects, full-stack applications, PHP automation tools**
 - 📫 How to reach me: [My Email](mailto:silomaallan@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/siloma-allan)
 **⚡ Fun fact:**
