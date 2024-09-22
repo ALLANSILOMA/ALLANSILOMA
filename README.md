@@ -5,9 +5,9 @@
 ## 🚀 About Me:
 I'm a passionate **Full Stack Developer, Graphics Designer** and **PHP Developer** based in **Nairobi**. I enjoy building full-stack applications and solving problems using modern web technologies. With a laid groundwork in both front-end and back-end development, I'm always looking to learn and implement new tools and frameworks. I love blending creativity with code, which makes frontend design and UX a fun challenge for me
 - 🔭 Currently working on **FarmTrek Farm Management System**
-- 🌱 Learning more about **Wordpress**
-- 💬 Ask me about **Kotlin Applications,** **Laravel,** **MySQL,** **Adobe Illustrator,** **Adobe Indesign,** **Adobe Photoshop,** **Canva,** **CodePen,** **Scala,**
-- 📚 Always on a journey to learn new things – **currently obsessed with modern web development**.
+- 🌱 Learning more about **Wordpress,** **Scala**
+- 💬 Ask me about **Kotlin Applications,** **Laravel,** **MySQL,** **Adobe Illustrator,** **Adobe Indesign,** **Adobe Photoshop,** **Canva,** **CodePen,** 
+- 📚 Always on a journey to learn new things – **currently obsessed with modern web development**<br/>
 -🛠️ My toolbox includes **PHP,** **JavaScript,** **Figma,** **TailwindCSS** **and Node.js,** **but I’m always looking to pick up new skills.**.<br/>
 -🧑‍💻 When I’m not coding, you’ll probably find me tinkering with side projects or brainstorming the next big app.<br/>
 - 👯 Looking to collaborate on **open-source projects, full-stack applications, PHP automation tools**
