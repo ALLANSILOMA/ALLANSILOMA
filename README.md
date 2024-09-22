@@ -16,7 +16,7 @@ I'm a passionate **Full Stack Developer, Graphics Designer** and **PHP Developer
 ☕ Powered by coffee and curiosity.<br/>
 🌍 I dream of one day building an app that goes viral (I mean,who doesn’t?).<br/>
 🍿 In my downtime, I’m either solving coding puzzles or leveling up in my favorite movies or television series.<br/>
-😍I enjoy being in the company of family or friends sipping a cold diet coke having laughs and enjoying a great meal. I also have a mild obsession with collecting quirky cartoon T-shirts!
+😍I enjoy being in the company of family or friends sipping a cold diet coke having a good laugh and enjoying a great meal. I also have a mild obsession with collecting quirky cartoon T-shirts!
 
 ## 🛠️ Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,nodejs,figma,androidstudio,bootstrap,c,cpp,css,dotnet,html,ai,idea,npm,ps,php,phpstorm&perline=10)](https://skillicons.dev)
