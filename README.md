@@ -4,7 +4,6 @@
 
 ## 🚀 About Me:
 I'm a passionate **Full Stack Developer, Graphics Designer** and **PHP Developer** based in **Nairobi**. I enjoy building full-stack applications and solving problems using modern web technologies. With a laid groundwork in both front-end and back-end development, I'm always looking to learn and implement new tools and frameworks. I love blending creativity with code, which makes frontend design and UX a fun challenge for me!
-
 -📚 Always on a journey to learn new things – currently obsessed with modern web development.
 -🛠️ My toolbox includes PHP, JavaScript, Figma, Tailwind and Node.js, but I’m always looking to pick up new skills.
 -🧑‍💻 When I’m not coding, you’ll probably find me tinkering with side projects or brainstorming the next big app.
