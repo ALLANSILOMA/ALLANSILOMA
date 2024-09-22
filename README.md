@@ -12,7 +12,7 @@ I'm a passionate **Full Stack Developer, Graphics Designer** and **PHP Developer
 - 🧑‍💻 When I’m not coding, you’ll probably find me tinkering with side projects or brainstorming the next big app.
 - 👯 Looking to collaborate on **open-source projects, full-stack applications, PHP automation tools**
 - 📫 How to reach me: [My Email](mailto:silomaallan@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/siloma-allan)
-**⚡ Fun fact:**
+## ⚡ Fun fact:
 -☕ Powered by coffee and curiosity.
 -🌍 I dream of one day building an app that goes viral (I mean,who doesn’t?).
 -🍿 In my downtime, I’m either solving coding puzzles or leveling up in my favorite movies or television series.
