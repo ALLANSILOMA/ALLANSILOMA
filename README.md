@@ -20,7 +20,7 @@ I'm a passionate **Full Stack Developer, Graphics Designer** and **PHP Developer
 -😍I enjoy being in the company of family or friends sipping a cold diet coke having laughs and enjoying a great meal. I also have a mild obsession with collecting quirky cartoon T-shirts!
 
 ## 🛠️ Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,nodejs,figma,androidstudio,bootstrap,c,cpp,css,dotnet,html,ai,idea,npm,ps,php,phpstorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,nodejs,figma,androidstudio,bootstrap,c,cpp,css,dotnet,html,ai,idea,npm,ps,php,phpstorm&perline=10)](https://skillicons.dev)
 
 **🔧 What I’m Working On:**
 -**Open Source Projects:** I contribute to fun projects in the community whenever I can.
