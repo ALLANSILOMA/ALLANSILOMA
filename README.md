@@ -12,7 +12,6 @@ I'm a passionate **Full Stack Developer, Graphics Designer** and **PHP Developer
 -🧑‍💻 When I’m not coding, you’ll probably find me tinkering with side projects or brainstorming the next big app.<br/>
 - 👯 Looking to collaborate on **open-source projects, full-stack applications, PHP automation tools**
 - 📫 How to reach me: [My Email](mailto:silomaallan@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/siloma-allan)
-  
 **⚡ Fun fact:**
 -☕ Powered by coffee and curiosity.
 -🌍 I dream of one day building an app that goes viral (I mean,who doesn’t?).
@@ -27,10 +26,10 @@ I'm a passionate **Full Stack Developer, Graphics Designer** and **PHP Developer
 -**Personal Projects:** Constantly brainstorming, building, and refactoring code for better performance and scalability.
 
 ## 📫 Connect with Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)](https://www.linkedin.com/in/siloma-allan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siloma-allan)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/silomaallan)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)](https://www.instagram.com/silomaallan)]
-[![Email](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)(mailto:silomaallan@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/silomaallan)]
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:silomaallan@gmail.com)
 
 
 Let’s collaborate and create something awesome together! 🎉
