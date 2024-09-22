@@ -21,15 +21,15 @@ I'm a passionate **Full Stack Developer, Graphics Designer** and **PHP Developer
 ## 🛠️ Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,nodejs,figma,androidstudio,bootstrap,c,cpp,css,dotnet,html,ai,idea,npm,ps,php,phpstorm&perline=10)](https://skillicons.dev)
 
-**🔧 What I’m Working On:**
+## 🔧 What I’m Working On:
 -**Open Source Projects:** I contribute to fun projects in the community whenever I can.
 -**Personal Projects:** Constantly brainstorming, building, and refactoring code for better performance and scalability.
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siloma-allan)
-[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl)](https://x.com/silomaallan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silomaallan)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silomaallan@gmail.com)
+[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl)](https://x.com/silomaallan)
 
 
 Let’s collaborate and create something awesome together! 🎉
