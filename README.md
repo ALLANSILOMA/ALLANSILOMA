@@ -26,7 +26,7 @@ I'm a passionate **Full Stack Software Developer, Graphics Designer** and **PHP 
 - **Personal Projects:** Constantly brainstorming, building, and refactoring code for better performance and scalability.
 
 ## 📫 Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white](https://www.facebook.com/allan.siloma/)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white)(https://www.facebook.com/allan.siloma/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siloma-allan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silomaallan)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silomaallan@gmail.com)
